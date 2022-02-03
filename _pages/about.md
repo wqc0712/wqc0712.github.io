@@ -22,7 +22,7 @@ Database Theory and Algorithms; Streaming Processing; Distributed and Parallel C
 
 **Qichen Wang** and Ke Yi. "Conjunctive Queries with Comparisons." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2022. [PDF](https://www.cse.ust.hk/~yike/CQC.pdf)
 
-**Qichen Wang** and Ke Yi. "Maintaining Acyclic Foreign-Key Joins Under Updates." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2020. [PDF](https://www.cse.ust.hk/~yike/sigmod20.pdf) &nbsp;&nbsp; [ACM Page with Presentation Video](https://dl.acm.org/doi/10.1145/3318464.3380586)
+**Qichen Wang** and Ke Yi. "Maintaining Acyclic Foreign-Key Joins Under Updates." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2020. [PDF](https://www.cse.ust.hk/~yike/sigmod20.pdf) 
 
 Weiguo Zheng, **Qichen Wang**, Jeffrey Xu Yu, Hong Cheng, and Lei Zou. "Efficient Computation of a Near-Maximum Independent Set over Evolving Graphs." IEEE International Conference on Data Engineering (**ICDE**), April 2018.
 
