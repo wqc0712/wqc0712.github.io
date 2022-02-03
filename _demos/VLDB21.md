@@ -1,7 +1,7 @@
 ---
 title: "Cquirrel: Continuous Query Processing over Acyclic Relational Schemas."
 collection: publications
-permalink: /publications/VLDB21
+permalink: /publication/VLDB21
 excerpt: '**Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan.'
 date: 2021-08-01
 venue: 'International Conference on Very Large Data Bases (<b>VLDB</b>)'
