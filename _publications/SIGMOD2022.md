@@ -6,7 +6,7 @@ excerpt: '**Qichen Wang** and Ke Yi.'
 date: 2022-06-01
 venue: 'ACM SIGMOD International Conference on Management of Data (<b>SIGMOD</b>)'
 paperurl: 'https://www.cse.ust.hk/~yike/CQC.pdf'
-
+pubtype: 'conference'
 ---
 
 **Qichen Wang** and Ke Yi. "Conjunctive Queries with Comparisons." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2022. [PDF](https://www.cse.ust.hk/~yike/CQC.pdf)
