@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/ICDE18
 excerpt: 'Weiguo Zheng, **Qichen Wang**, Jeffrey Xu Yu, Hong Cheng, and Lei Zou.'
 date: 2018-04-01
-venue: 'IEEE International Conference on Data Engineering (**ICDE**).'
+venue: 'IEEE International Conference on Data Engineering (<b>ICDE</b>).'
 
 ---
 <!-- paperurl: 'http://academicpages.github.io/files/paper1.pdf' -->
