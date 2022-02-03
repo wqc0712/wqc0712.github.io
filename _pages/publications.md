@@ -14,12 +14,14 @@ author_profile: true
 ## Conference papers
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.pubtype == 'conference' %}
+    {% include archive-single.html %}
+   {% endif %}
 {% endfor %}
 
-{% include base_path %}
-
 ## Demo papers
-{% for post in site.demos reversed %}
-  {% include archive-single.html %}
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'demo' %}
+    {% include archive-single.html %}
+   {% endif %}
 {% endfor %}
