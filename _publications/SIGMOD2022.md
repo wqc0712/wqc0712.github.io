@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/SIGMOD2022
 excerpt: '**Qichen Wang** and Ke Yi.'
 date: 2022-06-01
-venue: 'ACM SIGMOD International Conference on Management of Data (<b>SIGMOD<\b>)'
+venue: 'ACM SIGMOD International Conference on Management of Data (<b>SIGMOD</b>)'
 paperurl: 'https://www.cse.ust.hk/~yike/CQC.pdf'
 
 ---
