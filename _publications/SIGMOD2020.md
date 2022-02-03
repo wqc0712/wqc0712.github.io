@@ -6,7 +6,7 @@ excerpt: '**Qichen Wang** and Ke Yi.'
 date: 2020-06-01
 venue: 'ACM SIGMOD International Conference on Management of Data (<b>SIGMOD</b>)'
 paperurl: 'https://www.cse.ust.hk/~yike/sigmod20.pdf'
-
+pubtype: 'conference'
 ---
 
 **Qichen Wang** and Ke Yi. "Maintaining Acyclic Foreign-Key Joins Under Updates." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2020. [PDF](https://www.cse.ust.hk/~yike/sigmod20.pdf) &nbsp;&nbsp; [ACM Page with Presentation Video](https://dl.acm.org/doi/10.1145/3318464.3380586)
