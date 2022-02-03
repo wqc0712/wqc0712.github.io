@@ -18,6 +18,6 @@ author_profile: true
 {% endfor %}
 
 ## Demo papers
-{% for post in site.publications.demos reversed %}
+{% for post in site.demos reversed %}
   {% include archive-single.html %}
 {% endfor %}
