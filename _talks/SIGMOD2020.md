@@ -3,7 +3,7 @@ title: "Maintaining Acyclic Foreign-Key Joins under Updates"
 collection: talks
 type: "Conference Talk"
 permalink: /talks/SIGMOD2020
-venue: "Virtual Meeting"
+venue: "SIGMOD 2020"
 date: 2020-06-18
 location: "Virtual"
 ---
