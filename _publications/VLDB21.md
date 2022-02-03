@@ -6,7 +6,6 @@ excerpt: '**Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei L
 date: 2021-08-01
 venue: 'International Conference on Very Large Data Bases (**VLDB**)'
 paperurl: 'https://www.cse.ust.hk/~yike/Cquirrel.pdf'
-
 ---
 
 **Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan. "Cquirrel: Continuous Query Processing over Acyclic Relational Schemas." International Conference on Very Large Data Bases (**VLDB**), August 2021. System demonstration. [PDF](https://www.cse.ust.hk/~yike/Cquirrel.pdf)
