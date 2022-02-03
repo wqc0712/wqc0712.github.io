@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/VLDB21.md
 excerpt: '**Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan.'
 date: 2021-08-01
-venue: 'International Conference on Very Large Data Bases (**VLDB**)'
+venue: 'International Conference on Very Large Data Bases (<b>VLDB</b>)'
 paperurl: 'https://www.cse.ust.hk/~yike/Cquirrel.pdf'
 ---
 
