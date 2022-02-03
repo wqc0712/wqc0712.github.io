@@ -16,7 +16,9 @@ I am expected to graduate in July 2022, and I am on the job market now.  Please 
 
 Database Theory and Algorithms; Streaming Processing; Distributed and Parallel Computing; Query Processing for ML & ML for Query Processing; Privacy and Security in Query Processing.
 
-# Conference papers
+# Selected Publications
+
+## Conference papers
 
 **Qichen Wang** and Ke Yi. "Conjunctive Queries with Comparisons." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2022. [PDF](https://www.cse.ust.hk/~yike/CQC.pdf)
 
@@ -24,6 +26,6 @@ Database Theory and Algorithms; Streaming Processing; Distributed and Parallel C
 
 Weiguo Zheng, **Qichen Wang**, Jeffrey Xu Yu, Hong Cheng, and Lei Zou. "Efficient Computation of a Near-Maximum Independent Set over Evolving Graphs." IEEE International Conference on Data Engineering (**ICDE**), April 2018.
 
-# Demo papers
+## Demo papers
 
 **Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan. "Cquirrel: Continuous Query Processing over Acyclic Relational Schemas." International Conference on Very Large Data Bases (**VLDB**), August 2021. System demonstration. [PDF](https://www.cse.ust.hk/~yike/Cquirrel.pdf)
