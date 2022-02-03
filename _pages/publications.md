@@ -19,6 +19,8 @@ author_profile: true
    {% endif %}
 {% endfor %}
 
+------
+
 ## Demo papers
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'demo' %}
