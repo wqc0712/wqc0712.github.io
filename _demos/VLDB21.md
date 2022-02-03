@@ -1,6 +1,6 @@
 ---
 title: "Cquirrel: Continuous Query Processing over Acyclic Relational Schemas."
-collection: demos
+collection: publication
 permalink: /demos/VLDB21
 excerpt: '**Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan.'
 date: 2021-08-01
