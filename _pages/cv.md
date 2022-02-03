@@ -11,22 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Chu Kochen Honors College, Pursuit Science Class, Zhejiang University, 2013-2017
+* Ph.D in Computer Science, supervised by [Prof. Yi, Ke](https://www.cse.ust.hk/~yike/), Hong Kong University of Science and Technology, 2017-2022 (expected)
 
-Work experience
+Research Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2019 - October 2019: Research Intern
+  * Alibaba Inc, Dabo Academy
+  * Research Topic: Research Topic: Applying Materialized Views in OLAP Systems
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* March 2017 - July 2017: Research Intern
+  * Department of Computer Science and Engineering, Hong Kong University of Science and Technology
+  * Research Topic: Query Evaluation; Join Processing
+  * Supervisor: Prof. YI, Ke
   
+* August 2016 - January 2017: Research Intern
+  * Department of Systems Engineering and Engineering Management (SEEM), The Chinese University of Hong Kong
+  * Research Topic: Data Mining in Evolving Graph; Graph Processing
+  * Supervisor: Prof. CHENG, Hong and Prof. YU, Xu Jeffery
+
+
+<!--   
 Skills
 ======
 * Skill 1
@@ -34,7 +39,7 @@ Skills
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
@@ -54,6 +59,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
