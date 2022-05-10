@@ -16,11 +16,15 @@ I am expected to graduate in July 2022, and I am on the job market now.  Please 
 
 Database Theory and Algorithms; Streaming Processing; Distributed and Parallel Computing; Query Processing for ML & ML for Query Processing; Privacy and Security in Query Processing.
 
+## Awards
+
+ACM SIGMOD Best Paper Honorable Mention, 2022 
+
 ## Selected Publications
 
 ### Conference papers
 
-**Qichen Wang** and Ke Yi. "Conjunctive Queries with Comparisons." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2022. [PDF](https://www.cse.ust.hk/~yike/CQC.pdf)
+**Qichen Wang** and Ke Yi. "Conjunctive Queries with Comparisons." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2022. [PDF](https://www.cse.ust.hk/~yike/CQC.pdf) **Selected as the ACM SIGMOD Best Paper Honorable Mention**
 
 **Qichen Wang** and Ke Yi. "Maintaining Acyclic Foreign-Key Joins Under Updates." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2020. [PDF](https://www.cse.ust.hk/~yike/sigmod20.pdf) 
 
