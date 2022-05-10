@@ -24,6 +24,7 @@ We introduce a measure $\lambda$, which we call the **enclosureness** of the upd
 
 [ACM Page with Presentation Video](https://dl.acm.org/doi/10.1145/3318464.3380586)
 
+[GitHub Repo](https://github.com/hkustDB/Cquirrel-core-release)
 
 <!-- citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 This paper is about the number 2. The number 3 is left for future work.
