@@ -9,6 +9,8 @@ paperurl: 'https://www.cse.ust.hk/~yike/CQC.pdf'
 pubtype: 'conference'
 ---
 
+**Selected as ACM SIGMOD Best Paper Honorable Mention**
+
 ## Abstract
 
 Conjunctive queries with predicates in the form of comparisons that span multiple relations have regained interest recently, due to their relevance in OLAP queries, spatiotemporal databases, and machine learning over relational data.  The standard technique, predicate pushdown, has limited efficacy on such comparisons.  A technique by Willard can be used to process short comparisons that are adjacent in the join tree in time linear in the input size plus output size.  In this paper, we describe a new algorithm for evaluating conjunctive queries with both short and long comparisons, and identify an acyclic condition under which linear time can be achieved.  We have also implemented the new algorithm on top of Spark, and our experimental results demonstrate order-of-magnitude speedups over SparkSQL on a variety of graph pattern and analytical queries.
@@ -20,6 +22,9 @@ Conjunctive queries with predicates in the form of comparisons that span multipl
 ## Supplemental Material
 
 [PDF](https://www.cse.ust.hk/~yike/CQC.pdf)
+[Experiment Scripts](https://github.com/hkustDB/SparkCQC)
+
+We are working on a demo system for this work, so stay tuned!
 
 <!-- citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 This paper is about the number 2. The number 3 is left for future work.
