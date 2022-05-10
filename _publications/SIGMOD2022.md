@@ -22,6 +22,7 @@ Conjunctive queries with predicates in the form of comparisons that span multipl
 ## Supplemental Material
 
 [PDF](https://www.cse.ust.hk/~yike/CQC.pdf)
+
 [Experiment Scripts](https://github.com/hkustDB/SparkCQC)
 
 We are working on a demo system for this work, so stay tuned!
