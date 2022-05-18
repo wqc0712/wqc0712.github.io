@@ -16,10 +16,6 @@ I am expected to graduate in July 2022, and I am on the job market now.  Please 
 
 Database Theory and Algorithms; Streaming Processing; Distributed and Parallel Computing; Query Processing for ML & ML for Query Processing; Privacy and Security in Query Processing.
 
-## Awards
-
-ACM SIGMOD Best Paper Honorable Mention, 2022 
-
 ## Selected Publications
 
 ### Conference papers
@@ -33,3 +29,10 @@ Weiguo Zheng, **Qichen Wang**, Jeffrey Xu Yu, Hong Cheng, and Lei Zou. "Efficien
 ### Demo papers
 
 **Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan. "Cquirrel: Continuous Query Processing over Acyclic Relational Schemas." International Conference on Very Large Data Bases (**VLDB**), August 2021. System demonstration. [PDF](https://www.cse.ust.hk/~yike/Cquirrel.pdf)
+
+
+## Selected Awards
+
+ACM SIGMOD Best Paper Honorable Mention award, 2022, ACM SIGMOD
+Postgraduate Studentship, 2017-2021, HKUST
+Scholarship for Elite Students in Basic Science, 2013-2016, Zhejiang University
