@@ -20,21 +20,21 @@ Database Theory and Algorithms; Streaming Processing; Distributed and Parallel C
 
 ### Conference papers
 
-**Qichen Wang** and Ke Yi. "Conjunctive Queries with Comparisons." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2022. [PDF](https://www.cse.ust.hk/~yike/CQC.pdf) **(Selected as the ACM SIGMOD Best Paper Honorable Mention)**
++ **Qichen Wang** and Ke Yi. "Conjunctive Queries with Comparisons." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2022. [PDF](https://www.cse.ust.hk/~yike/CQC.pdf) **(Selected as the ACM SIGMOD Best Paper Honorable Mention)**
 
-**Qichen Wang** and Ke Yi. "Maintaining Acyclic Foreign-Key Joins Under Updates." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2020. [PDF](https://www.cse.ust.hk/~yike/sigmod20.pdf) 
++ **Qichen Wang** and Ke Yi. "Maintaining Acyclic Foreign-Key Joins Under Updates." ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2020. [PDF](https://www.cse.ust.hk/~yike/sigmod20.pdf) 
 
-Weiguo Zheng, **Qichen Wang**, Jeffrey Xu Yu, Hong Cheng, and Lei Zou. "Efficient Computation of a Near-Maximum Independent Set over Evolving Graphs." IEEE International Conference on Data Engineering (**ICDE**), April 2018.
++ Weiguo Zheng, **Qichen Wang**, Jeffrey Xu Yu, Hong Cheng, and Lei Zou. "Efficient Computation of a Near-Maximum Independent Set over Evolving Graphs." IEEE International Conference on Data Engineering (**ICDE**), April 2018.
 
 ### Demo papers
 
-**Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan. "Cquirrel: Continuous Query Processing over Acyclic Relational Schemas." International Conference on Very Large Data Bases (**VLDB**), August 2021. System demonstration. [PDF](https://www.cse.ust.hk/~yike/Cquirrel.pdf)
++ **Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan. "Cquirrel: Continuous Query Processing over Acyclic Relational Schemas." International Conference on Very Large Data Bases (**VLDB**), August 2021. System demonstration. [PDF](https://www.cse.ust.hk/~yike/Cquirrel.pdf)
 
 
 ## Selected Awards
 
-ACM SIGMOD Best Paper Honorable Mention award, 2022, ACM SIGMOD
++ ACM SIGMOD Best Paper Honorable Mention award, 2022, ACM SIGMOD
 
-Postgraduate Studentship, 2017-2021, HKUST
++ Postgraduate Studentship, 2017-2021, HKUST
 
-Scholarship for Elite Students in Basic Science, 2013-2016, Zhejiang University
++ Scholarship for Elite Students in Basic Science, 2013-2016, Zhejiang University
