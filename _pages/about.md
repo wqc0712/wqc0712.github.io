@@ -34,5 +34,7 @@ Weiguo Zheng, **Qichen Wang**, Jeffrey Xu Yu, Hong Cheng, and Lei Zou. "Efficien
 ## Selected Awards
 
 ACM SIGMOD Best Paper Honorable Mention award, 2022, ACM SIGMOD
+
 Postgraduate Studentship, 2017-2021, HKUST
+
 Scholarship for Elite Students in Basic Science, 2013-2016, Zhejiang University
