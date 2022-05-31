@@ -35,6 +35,8 @@ Database Theory and Algorithms; Streaming Processing; Distributed and Parallel C
 
 + ACM SIGMOD Best Paper Honorable Mention award, 2022, ACM SIGMOD
 
++ RedBird Academic Excellence Award for PhD Student, 2022, HKUST
+
 + Postgraduate Studentship, 2017-2021, HKUST
 
 + Scholarship for Elite Students in Basic Science, 2013-2016, Zhejiang University
