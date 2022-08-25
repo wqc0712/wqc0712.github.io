@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Chu Kochen Honors College, Pursuit Science Class, Zhejiang University, 2013-2017
-* Ph.D in Computer Science, supervised by [Prof. Yi, Ke](https://www.cse.ust.hk/~yike/), Hong Kong University of Science and Technology, 2017-2022 (expected)
+* Ph.D in Computer Science, supervised by [Prof. Yi, Ke](https://www.cse.ust.hk/~yike/), Hong Kong University of Science and Technology, 2017-2022
 
 Research Experience
 ======
