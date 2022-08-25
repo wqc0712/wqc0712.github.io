@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Academic Positions
+======
+* Research Assistant Professor, Department of Computer Science, Hong Kong Baptist University, 2022-now
+
 Education
 ======
 * B.S. in Computer Science, Chu Kochen Honors College, Pursuit Science Class, Zhejiang University, 2013-2017
