@@ -22,16 +22,15 @@ Database Theory and Algorithms; Streaming Processing; Distributed and Parallel C
 
 + [**Change Propagation without Joins.**](/publication/VLDB2023) <br> **Qichen Wang**, Xiao Hu, Binyang Dai and Ke Yi. <br> International Conference on Very Large Data Bases (**VLDB**), August 2023 <br>
 
-+ [**Conjunctive Queries with Comparisons.**](/publication/SIGMOD2022) <br>  **Qichen Wang** and Ke Yi. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2022. <br> [PDF](https://www.cse.ust.hk/~yike/CQC.pdf) **(Selected as the ACM SIGMOD Best Paper Honorable Mention)**
++ [**Conjunctive Queries with Comparisons.**](/publication/SIGMOD2022) <br>  **Qichen Wang** and Ke Yi. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2022. <br> **(Selected as the ACM SIGMOD Best Paper Honorable Mention)**
 
-+ **Maintaining Acyclic Foreign-Key Joins Under Updates.** <br> **Qichen Wang** and Ke Yi. <br>  ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2020. <br> [PDF](https://www.cse.ust.hk/~yike/sigmod20.pdf) 
++ [**Maintaining Acyclic Foreign-Key Joins Under Updates.**](/publication/SIGMOD2020) <br> **Qichen Wang** and Ke Yi. <br>  ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2020.
 
-+ **Efficient Computation of a Near-Maximum Independent Set over Evolving Graphs.** <br> Weiguo Zheng, **Qichen Wang**, Jeffrey Xu Yu, Hong Cheng, and Lei Zou. <br> IEEE International Conference on Data Engineering (**ICDE**), April 2018.
++ [**Efficient Computation of a Near-Maximum Independent Set over Evolving Graphs.**](/publication/ICDE2018) <br> Weiguo Zheng, **Qichen Wang**, Jeffrey Xu Yu, Hong Cheng, and Lei Zou. <br> IEEE International Conference on Data Engineering (**ICDE**), April 2018.
 
 ### Demo papers
 
-+ **Cquirrel: Continuous Query Processing over Acyclic Relational Schemas.** <br> **Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan. <br> International Conference on Very Large Data Bases (**VLDB**), August 2021. System demonstration. <br> [PDF](https://www.cse.ust.hk/~yike/Cquirrel.pdf)
-
++ [**Cquirrel: Continuous Query Processing over Acyclic Relational Schemas.**](/publication/VLDB2021) <br> **Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan. <br> International Conference on Very Large Data Bases (**VLDB**), August 2021. System demonstration.
 
 ## Selected Awards
 
