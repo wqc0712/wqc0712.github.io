@@ -20,9 +20,9 @@ Database Theory and Algorithms; Streaming Processing; Distributed and Parallel C
 
 ### Conference papers
 
-+ **Change Propagation without Joins.** <br> **Qichen Wang**, Xiao Hu, Binyang Dai and Ke Yi. <br> International Conference on Very Large Data Bases (**VLDB**), August 2023 <br> [PDF]() [Full Version]()
++ [**Change Propagation without Joins.**](/publication/VLDB2023) <br> **Qichen Wang**, Xiao Hu, Binyang Dai and Ke Yi. <br> International Conference on Very Large Data Bases (**VLDB**), August 2023 <br>
 
-+ **Conjunctive Queries with Comparisons.** <br>  **Qichen Wang** and Ke Yi. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2022. <br> [PDF](https://www.cse.ust.hk/~yike/CQC.pdf) **(Selected as the ACM SIGMOD Best Paper Honorable Mention)**
++ [**Conjunctive Queries with Comparisons.**](/publication/SIGMOD2022) <br>  **Qichen Wang** and Ke Yi. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2022. <br> [PDF](https://www.cse.ust.hk/~yike/CQC.pdf) **(Selected as the ACM SIGMOD Best Paper Honorable Mention)**
 
 + **Maintaining Acyclic Foreign-Key Joins Under Updates.** <br> **Qichen Wang** and Ke Yi. <br>  ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2020. <br> [PDF](https://www.cse.ust.hk/~yike/sigmod20.pdf) 
 
