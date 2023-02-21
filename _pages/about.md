@@ -44,5 +44,5 @@ Database Theory and Algorithms; Streaming Processing; Distributed and Parallel C
 
 ## Services
 
-+ **PC Member**: <br> VLDB 2024
++ **PC Member**: VLDB 2024
 + **External Reviewer**: VLDB 2023, SIGMOD 2019-2023, ICDT 2019
