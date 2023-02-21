@@ -41,3 +41,8 @@ Database Theory and Algorithms; Streaming Processing; Distributed and Parallel C
 + Postgraduate Studentship, 2017-2021, HKUST
 
 + Scholarship for Elite Students in Basic Science, 2013-2016, Zhejiang University
+
+## Services
+
++ **PC Member**: <br> VLDB 2024
++ **External Reviewer**: VLDB 2023, SIGMOD 2019-2023, ICDT 2019
