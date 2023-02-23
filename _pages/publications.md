@@ -27,3 +27,7 @@ author_profile: true
     {% include archive-single.html %}
    {% endif %}
 {% endfor %}
+
+## Patent
+
+Data processing method and device, program product and storage medium, CN113448969B
