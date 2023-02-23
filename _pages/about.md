@@ -26,7 +26,7 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 + [**Change Propagation without Joins.**](/publication/VLDB2023) <br> **Qichen Wang**, Xiao Hu, Binyang Dai and Ke Yi. <br> International Conference on Very Large Data Bases (**VLDB**), August 2023 <br> <img src="/images/artifacts_available_dl.jpg" width=5%/>
 
-+ [**Conjunctive Queries with Comparisons.**](/publication/SIGMOD2022) <br>  **Qichen Wang** and Ke Yi. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2022. <br> ![Artifacts_availale](/images/artifacts_available_dl.jpg) ![Artifacts_eval](/images/artifacts_evaluated_reusable_dl.jpg) ![Artifacts_repro](/images/results_reproduced_dl.jpg) **(Selected as the ACM SIGMOD Best Paper Honorable Mention)**
++ [**Conjunctive Queries with Comparisons.**](/publication/SIGMOD2022) <br>  **Qichen Wang** and Ke Yi. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2022. <br>  <img src="/images/artifacts_available_dl.jpg" width=5%/>  <img src="/images/artifacts_evaluated_reusable_dl.jpg" width=5%/>  <img src="/images/results_reproduced_dl.jpg" width=5%/> **(Selected as the ACM SIGMOD Best Paper Honorable Mention)**
 
 + [**Maintaining Acyclic Foreign-Key Joins Under Updates.**](/publication/SIGMOD2020) <br> **Qichen Wang** and Ke Yi. <br>  ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2020.
 
@@ -34,7 +34,7 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 ### Demo papers
 
-+ [**Cquirrel: Continuous Query Processing over Acyclic Relational Schemas.**](/publication/VLDB21) <br> **Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan. <br> International Conference on Very Large Data Bases (**VLDB**), August 2021. System demonstration. <br> ![Artifacts_availale](/images/artifacts_available_dl.jpg)
++ [**Cquirrel: Continuous Query Processing over Acyclic Relational Schemas.**](/publication/VLDB21) <br> **Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan. <br> International Conference on Very Large Data Bases (**VLDB**), August 2021. System demonstration. <br> <img src="/images/artifacts_available_dl.jpg" width=5%/>
 
 ### Patent
 
