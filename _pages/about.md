@@ -24,9 +24,9 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 + [**Computing the Difference of Conjunctive Queries Efficiently.**](/publication/SIGMOD2023) **\*\*** <br> Xiao Hu and **Qichen Wang**. <br> ACM SIGMOD International Conference on Mangement of Data (**SIGMOD**), June 2023.
 
-+ [**Change Propagation without Joins.**](/publication/VLDB2023) <br> **Qichen Wang**, Xiao Hu, Binyang Dai and Ke Yi. <br> International Conference on Very Large Data Bases (**VLDB**), August 2023 <br> <img src="/images/artifacts_available_dl.jpg" width=5%/>
++ [**Change Propagation without Joins.**](/publication/VLDB2023) <br> **Qichen Wang**, Xiao Hu, Binyang Dai and Ke Yi. <br> International Conference on Very Large Data Bases (**VLDB**), August 2023 <br> ![artifacts_available](/images/artifacts_available_dl.jpg width="5%") <img src="/images/artifacts_available_dl.jpg" width="5%"/>
 
-+ [**Conjunctive Queries with Comparisons.**](/publication/SIGMOD2022) <br>  **Qichen Wang** and Ke Yi. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2022. <br>  <img src="/images/artifacts_available_dl.jpg" width=5%/>  <img src="/images/artifacts_evaluated_reusable_dl.jpg" width=5%/>  <img src="/images/results_reproduced_dl.jpg" width=5%/> **(Selected as the ACM SIGMOD Best Paper Honorable Mention)**
++ [**Conjunctive Queries with Comparisons.**](/publication/SIGMOD2022) <br>  **Qichen Wang** and Ke Yi. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2022. <br>  <img src="/images/artifacts_available_dl.jpg" width="5%"/>  <img src="/images/artifacts_evaluated_reusable_dl.jpg" width="5%"/>  <img src="/images/results_reproduced_dl.jpg" width="5%"/> **(Selected as the ACM SIGMOD Best Paper Honorable Mention)**
 
 + [**Maintaining Acyclic Foreign-Key Joins Under Updates.**](/publication/SIGMOD2020) <br> **Qichen Wang** and Ke Yi. <br>  ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2020.
 
@@ -34,7 +34,7 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 ### Demo papers
 
-+ [**Cquirrel: Continuous Query Processing over Acyclic Relational Schemas.**](/publication/VLDB21) <br> **Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan. <br> International Conference on Very Large Data Bases (**VLDB**), August 2021. System demonstration. <br> <img src="/images/artifacts_available_dl.jpg" width=5%/>
++ [**Cquirrel: Continuous Query Processing over Acyclic Relational Schemas.**](/publication/VLDB21) <br> **Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan. <br> International Conference on Very Large Data Bases (**VLDB**), August 2021. System demonstration. <br> <img src="/images/artifacts_available_dl.jpg" width="5%"/>
 
 ### Patent
 
