@@ -25,6 +25,8 @@ Conjunctive queries with predicates in the form of comparisons that span multipl
 
 [Experiment Scripts](https://github.com/hkustDB/SparkCQC)
 
+The experiment scripts have obtained the ACM Reprodicibility certification! You can reproduce the experiment results and all figures by using our [experiment scripts](https://github.com/hkustDB/SparkCQC)!  Thanks to Binyang Dai for his work to pass the test!
+
 We are working on a demo system for this work, so stay tuned!
 
 <!-- citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
