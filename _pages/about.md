@@ -34,7 +34,7 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 ### Demo papers
 
-+ [**Cquirrel: Continuous Query Processing over Acyclic Relational Schemas.**](/publication/VLDB21) <br> **Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan. <br> International Conference on Very Large Data Bases (**VLDB**), August 2021. System demonstration. <br> ![Artifacts_availale](https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png)
++ [**Cquirrel: Continuous Query Processing over Acyclic Relational Schemas.**](/publication/VLDB21) <br> **Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan. <br> International Conference on Very Large Data Bases (**VLDB**), August 2021. System demonstration. <br> ![Artifacts_availale](/images/artifacts_available_dl.jpg)
 
 ### Patent
 
