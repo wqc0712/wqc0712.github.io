@@ -24,9 +24,9 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 + [**Computing the Difference of Conjunctive Queries Efficiently.**](/publication/SIGMOD2023) **\*\*** <br> Xiao Hu and **Qichen Wang**. <br> ACM SIGMOD International Conference on Mangement of Data (**SIGMOD**), June 2023.
 
-+ [**Change Propagation without Joins.**](/publication/VLDB2023) <br> **Qichen Wang**, Xiao Hu, Binyang Dai and Ke Yi. <br> International Conference on Very Large Data Bases (**VLDB**), August 2023 <br> ![Artifacts_availale](https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png)
++ [**Change Propagation without Joins.**](/publication/VLDB2023) <br> **Qichen Wang**, Xiao Hu, Binyang Dai and Ke Yi. <br> International Conference on Very Large Data Bases (**VLDB**), August 2023 <br> ![Artifacts_availale](/images/artifacts_available_dl.jpg)
 
-+ [**Conjunctive Queries with Comparisons.**](/publication/SIGMOD2022) <br>  **Qichen Wang** and Ke Yi. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2022. <br> ![Artifacts_availale](https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png) ![Artifacts_eval](https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_evaluated_reusable_v1_1.png) ![Artifacts_repro](https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/results_reproduced_v1_1.png) **(Selected as the ACM SIGMOD Best Paper Honorable Mention)**
++ [**Conjunctive Queries with Comparisons.**](/publication/SIGMOD2022) <br>  **Qichen Wang** and Ke Yi. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2022. <br> ![Artifacts_availale](/images/artifacts_available_dl.jpg) ![Artifacts_eval](/images/artifacts_evaluated_reusable_dl.jpg) ![Artifacts_repro](/images/results_reproduced_dl.jpg) **(Selected as the ACM SIGMOD Best Paper Honorable Mention)**
 
 + [**Maintaining Acyclic Foreign-Key Joins Under Updates.**](/publication/SIGMOD2020) <br> **Qichen Wang** and Ke Yi. <br>  ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2020.
 
