@@ -18,7 +18,11 @@ Database Theory and Algorithms; Streaming Processing; Distributed and Parallel C
 
 ## Selected Publications
 
+In publications marked with '**\*\***', authors are ordered alphabetically, as a convention of theory papers.  In the other publications, authors are ordered by contribution.
+
 ### Conference papers
+
++ [**Computing the Difference of Conjunctive Queries Efficiently.**](/publication/SIGMOD2023) **\*\*** <br> Xiao Hu and **Qichen Wang**. <br> ACM SIGMOD International Conference on Mangement of Data (**SIGMOD**), June 2023.
 
 + [**Change Propagation without Joins.**](/publication/VLDB2023) <br> **Qichen Wang**, Xiao Hu, Binyang Dai and Ke Yi. <br> International Conference on Very Large Data Bases (**VLDB**), August 2023 <br>
 
@@ -31,6 +35,11 @@ Database Theory and Algorithms; Streaming Processing; Distributed and Parallel C
 ### Demo papers
 
 + [**Cquirrel: Continuous Query Processing over Acyclic Relational Schemas.**](/publication/VLDB21) <br> **Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan. <br> International Conference on Very Large Data Bases (**VLDB**), August 2021. System demonstration.
+
+### Patent
+
++ Data processing method and device, program product and storage medium, CN113448969B
+
 
 ## Selected Awards
 
