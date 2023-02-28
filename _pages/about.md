@@ -45,6 +45,8 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 ## Selected Awards
 
++ HKUST CSE Best PhD Dissertation Award Honorable Mention, 2022, HKUST
+
 + ACM SIGMOD Best Paper Honorable Mention award, 2022, ACM SIGMOD
 
 + RedBird Academic Excellence Award for PhD Student, 2022, HKUST
