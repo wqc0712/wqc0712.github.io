@@ -1,0 +1,12 @@
+- title: Project Title
+  excerpt: Project Description
+  url: /projects/project-title/
+  tags:
+    - Project Tag
+    - Another Tag
+- title: Another Project Title
+  excerpt: Another Project Description
+  url: /projects/another-project-title/
+  tags:
+    - Project Tag
+    - Different Tag
