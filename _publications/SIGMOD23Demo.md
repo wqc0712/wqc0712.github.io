@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/SIGMOD23Demo
 excerpt: 'Binyang Dai, **Qichen Wang**, and Ke Yi.'
 date: 2023-06-10
-venue: 'ACM SIGMOD International Conference on Mangement of Data (<b>SIGMOD0</b>)'
+venue: 'ACM SIGMOD International Conference on Mangement of Data (<b>SIGMOD</b>)'
 paperurl: ''
 pubtype: 'demo'
 ---
