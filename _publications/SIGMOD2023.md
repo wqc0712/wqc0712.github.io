@@ -23,6 +23,8 @@ Xiao Hu and **Qichen Wang**. "Computing the Difference of Conjunctive Queries Ef
 
 [PDF]()
 
+[ArXiv Full Version](https://arxiv.org/pdf/2302.13140.pdf)
+
 [Experiment Scripts]()
 
 
