@@ -1,5 +1,5 @@
 ---
-title: "Conjunctive Queries with Comparisons. \[extended abstract\]"
+title: "Conjunctive Queries with Comparisons. [extended abstract]"
 collection: publications
 permalink: /publication/SIGMODRecord2022
 excerpt: '**Qichen Wang** and Ke Yi.'
