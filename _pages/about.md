@@ -38,12 +38,18 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
  
 + [**Cquirrel: Continuous Query Processing over Acyclic Relational Schemas.**](/publication/VLDB21) <br> **Qichen Wang**, Chaoqi Zhang, Danish Alsayed, Ke Yi, Bin Wu, Feifei Li, and Chaoqun Zhan. <br> International Conference on Very Large Data Bases (**VLDB**), August 2021. System demonstration. <br> <img src="/images/artifacts_available_dl.jpg" width="5%"/>
 
+### Journal papers
+
++ [**Conjunctive Queries with Comparisons. [extended abstract]**](/publication/SIGMODRecord2022) <br>  **Qichen Wang** and Ke Yi. <br> SIGMOD Record, March 2023. <br> **(Special issue on the 2022 ACM SIGMOD Research Highlight Award.)**
+
 ### Patent
 
 + Data processing method and device, program product and storage medium, CN113448969B
 
 
 ## Selected Awards
+
++ ACM SIGMOD Research Highlight Award, 2022, ACM SIGMOD
 
 + HKUST CSE Best PhD Dissertation Award Honorable Mention, 2022, HKUST
 
