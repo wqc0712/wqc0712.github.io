@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Assistant Professor in [Department of Computer Science](https://www.comp.hkbu.edu.hk/v1/) at Hong Kong Baptist University.  I received my PhD degree from the [Department of Computer Science and Technology](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/home), supervised by Professor [Ke Yi](https://www.cse.ust.hk/~yike/).   Before that, I received my Bachelor's Degree in Engineering from the Computer Science Department at Zhejiang University.  During Aug. 2016 to Jan. 2017, I was a research intern in the [Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Professor [Hong Cheng](https://www1.se.cuhk.edu.hk/~hcheng/) and Professor [Jeffrey Xu Yu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/).   I also worked as a research intern in Alibaba, DAMO Academy from June 2019 to Oct. 2019.
+I am a Research Assistant Professor in [Department of Computer Science](https://www.comp.hkbu.edu.hk/v1/) at Hong Kong Baptist University.  I received my PhD degree from the [Department of Computer Science and Technology](https://cse.hkust.edu.hk/) at [Hong Kong University of Science and Technology](https://hkust.edu.hk/home), supervised by Professor [Ke Yi](https://www.cse.ust.hk/~yike/).   Before that, I received my Bachelor's Degree in Engineering from the Computer Science Department at Zhejiang University.  During Aug. 2016 to Jan. 2017, I was a research intern in the [Department of Systems Engineering and Engineering Management](https://www.se.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Professor [Hong Cheng](https://www1.se.cuhk.edu.hk/~hcheng/) and Professor [Jeffrey Xu Yu](https://www.se.cuhk.edu.hk/people/academic-staff/prof-yu-xu-jeffrey/).   I also worked as a research intern at Alibaba, DAMO Academy from June 2019 to Oct. 2019.
 
-**Looking for Research Assistants, PhD Students (Co-supervised) and Postdoc Research Fellows.  Feel free to email me your CV and related materials.**
+**Looking for Research Assistants, PhD Students (Co-supervised), and Postdoc Research Fellows.  Feel free to email me your CV and related materials.**
 
 ## Research interest
 
-Database Theory and Algorithms; Streaming Processing; Distributed and Parallel Computing; Query Processing for ML & ML for Query Processing; Privacy and Security in Query Processing.
+Database Theory and Algorithms; Streaming Processing; Distributed and Parallel Computing.
 
 ## Selected Publications
 
@@ -44,7 +44,7 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 ### Patent
 
-+ Data processing method and device, program product and storage medium, CN113448969B
++ Data processing method and device, program product, and storage medium, CN113448969B
 
 
 ## Selected Awards
