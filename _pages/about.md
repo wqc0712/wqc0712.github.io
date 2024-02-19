@@ -65,5 +65,5 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 ## Services
 
-+ **PC Member**: VLDB 2024
-+ **External Reviewer**: VLDB 2023, SIGMOD 2019-2023, ICDT 2019
++ **PC Member**: VLDB 2024, CCS 2024
++ **External Reviewer**: PODS 2024, VLDB 2023, SIGMOD 2019-2023, ICDT 2019
