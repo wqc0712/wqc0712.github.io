@@ -5,7 +5,7 @@ permalink: /publication/SIGMOD2024P2
 excerpt: '**Qichen Wang**, Qiyao Luo and Yilei Wang.'
 date: 2024-06-09
 venue: 'ACM SIGMOD International Conference on Management of Data (<b>SIGMOD</b>)'
-paperurl: ''
+paperurl: '/files/V2MOD168.pdf'
 pubtype: 'conference'
 ---
 
@@ -21,7 +21,7 @@ The evaluation of top-k conjunctive queries, a staple in business analysis, ofte
 
 ## Supplemental Material
 
-[PDF]
+[PDF](/files/V2MOD168.pdf)
 
 [Experiment Scripts](https://github.com/lambdaSQL/TopK-CQ)
 
