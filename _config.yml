@@ -82,11 +82,12 @@ analytics:
 author:
   name             : "Qichen Wang"
   avatar           : "profile.png"
-  bio              : "Research Assistant Professor<br><br>Department of Computer Science<br>Hong Kong Baptist University<br><br><b>Email</b> qcwang at hkbu.edu.hk"
-  location         : "Hong Kong"
+  bio              : "Postdoctoral Fellow<br><br>School of Computer and Communication Sciences<br>EPFL<br><br><b>Email</b> firstname dot lastname at epfl.ch"
+  #"Research Assistant Professor<br><br>Department of Computer Science<br>Hong Kong Baptist University<br><br><b>Email</b> qcwang at hkbu.edu.hk"
+  location         : "Lausanne"
   employer         : #"Hong Kong Baptist University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.co.kr/citations?user=UiFnwfkAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=UiFnwfkAAAAJ&hl=zh-CN"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
