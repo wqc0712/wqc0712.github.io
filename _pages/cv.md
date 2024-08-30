@@ -11,7 +11,10 @@ redirect_from:
 
 Academic Positions
 ======
-* Research Assistant Professor, Department of Computer Science, Hong Kong Baptist University, 2022-now
+* Postdoctoral Fellow, School of Computer and Communication Sciences, École Polytechnique Fédérale de Lausanne, 2024-now
+  * Supervisor: Prof. Christoph Koch
+
+* Research Assistant Professor (on-leave), Department of Computer Science, Hong Kong Baptist University, 2022-now
 
 Education
 ======
