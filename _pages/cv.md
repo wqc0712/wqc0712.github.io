@@ -12,14 +12,16 @@ redirect_from:
 Academic Positions
 ======
 * Postdoctoral Fellow, School of Computer and Communication Sciences, École Polytechnique Fédérale de Lausanne, 2024-now
-  * Supervisor: Prof. Christoph Koch
+  * Supervisor: Prof. [Christoph Koch](https://people.epfl.ch/christoph.koch)
 
 * Research Assistant Professor (on-leave), Department of Computer Science, Hong Kong Baptist University, 2022-now
 
 Education
 ======
+* Ph.D in Computer Science, Hong Kong University of Science and Technology, 2017-2022
+  * Supervisor: Prof. [Ke Yi](https://www.cse.ust.hk/~yike/)
 * B.S. in Computer Science, Chu Kochen Honors College, Pursuit Science Class, Zhejiang University, 2013-2017
-* Ph.D in Computer Science, supervised by [Prof. Yi, Ke](https://www.cse.ust.hk/~yike/), Hong Kong University of Science and Technology, 2017-2022
+
 
 Research Experience
 ======
