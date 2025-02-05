@@ -22,6 +22,8 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 ### Conference papers
 
++ [**Yannakakis+: Practical Acyclic Query Evaluation with Theoretical Guarantees.**](/publication/SIGMOD2025) <br> **Qichen Wang**, Bingnan Chen, Binyang Dai, Ke Yi, Feifei Li and Liang Lin. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2025. 
+
 + [**Relational Algorithms for Top-k Query Evaluation.**](/publication/SIGMOD2024P2) <br> **Qichen Wang**, Qiyao Luo and Yilei Wang. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2024. 
 
 + [**FedKNN: Secure Federated k-Nearest Neighbor Search.**](/publication/SIGMOD2024P1) <br> Xinyi Zhang, **Qichen Wang**, Cheng Xu, Yun Peng and Jianliang Xu. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2024. 
