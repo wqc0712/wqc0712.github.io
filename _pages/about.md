@@ -21,6 +21,7 @@ Database Theory and Algorithms; Streaming Processing; Distributed and Parallel C
 In publications marked with '**\*\***', authors are ordered alphabetically, as a convention of theory papers.  In the other publications, authors are ordered by contribution.
 
 ### Conference papers
++ [**Towards Update-Dependent Analysis of Query Maintenance.**](/publication/PODS2025) **\*\*** <br> Xiao Hu and **Qichen Wang**. <br> ACM Symposium on Principles of Database Systems (**PODS**), June 2025.
 
 + [**Yannakakis+: Practical Acyclic Query Evaluation with Theoretical Guarantees.**](/publication/SIGMOD2025) <br> **Qichen Wang**, Bingnan Chen, Binyang Dai, Ke Yi, Feifei Li and Liang Lin. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2025. 
 
