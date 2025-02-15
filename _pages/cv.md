@@ -52,19 +52,48 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+
+### Conference papers
+
+  <ul>{% for post in site.publications reversed %}
+    {% if post.pubtype == 'conference' %}
     {% include archive-single-cv.html %}
+   {% endif %}
   {% endfor %}</ul>
+
+------
+
+### Demo papers
+  <ul>{% for post in site.publications reversed %}
+    {% if post.pubtype == 'demo' %}
+    {% include archive-single-cv.html %}
+   {% endif %}
+  {% endfor %}</ul>
+
+
+------
+
+### Journal papers
+  <ul>{% for post in site.publications reversed %}
+    {% if post.pubtype == 'journal' %}
+    {% include archive-single-cv.html %}
+   {% endif %}
+  {% endfor %}</ul>
+
+## Patent
+
+Data processing method and device, program product and storage medium, CN113448969B
+
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
