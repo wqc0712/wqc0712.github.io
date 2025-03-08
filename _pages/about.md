@@ -21,6 +21,9 @@ Database Theory and Algorithms; Streaming Processing; Distributed and Parallel C
 In publications marked with '**\*\***', authors are ordered alphabetically, as a convention of theory papers.  In the other publications, authors are ordered by contribution.
 
 ### Conference papers
++ [**Towards Update-Dependent Analysis of Query Maintenance.**](/publication/PODS2025) **\*\*** <br> Xiao Hu and **Qichen Wang**. <br> ACM Symposium on Principles of Database Systems (**PODS**), June 2025.
+
++ [**Yannakakis+: Practical Acyclic Query Evaluation with Theoretical Guarantees.**](/publication/SIGMOD2025) <br> **Qichen Wang**, Bingnan Chen, Binyang Dai, Ke Yi, Feifei Li and Liang Lin. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2025. 
 
 + [**Relational Algorithms for Top-k Query Evaluation.**](/publication/SIGMOD2024P2) <br> **Qichen Wang**, Qiyao Luo and Yilei Wang. <br> ACM SIGMOD International Conference on Management of Data (**SIGMOD**), June 2024. 
 
@@ -67,6 +70,6 @@ In publications marked with '**\*\***', authors are ordered alphabetically, as a
 
 ## Services
 
-+ **PC Member**: VLDB 2024, CCS 2024, CIKM 2024
++ **PC Member**: SIGMOD 2026, VLDB 2024, CCS 2024, CIKM 2024
 + **Journal Reviewer / Referee**: IEEE Transactions on Dependable and Secure Computing (TDSC)
 + **External Reviewer**: PODS 2024, VLDB 2023, SIGMOD 2019-2023, ICDT 2019
